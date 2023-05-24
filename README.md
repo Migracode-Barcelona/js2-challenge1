@@ -1,4 +1,4 @@
-# JS Third mission
+# JS2 First mission
 
 > ⚠️ **If your assignment has been given to you through GitHub Classroom, this repository *does not need to be forked*: open the created repository using CodeSpaces OR clone the created repository!**
 

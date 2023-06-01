@@ -18,5 +18,8 @@
   "homepage": "https://github.com/Migracode-Barcelona/js1-challenge1#readme",
   "devDependencies": {
     "jest": "^29.5.0"
+  },
+  "dependencies": {
+    "jsdom": "^22.1.0"
   }
 }

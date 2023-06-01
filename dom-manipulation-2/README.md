@@ -1,6 +1,6 @@
-# For homework
+# Part 2
 
-## Part 1
+## 1.
 
 Open `index.html` in your browser. Notice there are 3 buttons: blue, orange and green.
 Edit the file `./js/main.js` and add the following functionality:
@@ -28,7 +28,7 @@ Here's an example of how the website should look for the blue button:
 
 ![Blue button example](images/blue_clicked.png)
 
-## Part 2
+## 2.
 
 Just below the buttons, there's a form called **Register with us**.
 

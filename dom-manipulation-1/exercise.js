@@ -16,6 +16,20 @@ Write JavaScript below that logs:
 
 */
 
+const pNodes = document.querySelectorAll("p");
+if(pNodes.length === 6){
+   console.log(pNodes)
+}
+
+const firstDiv = document.querySelector(".site-header");
+console.log(firstDiv);
+
+const jumboText = document.querySelector("#jumbotron-text")
+console.log(jumboText);
+
+const primaryElements = document.querySelectorAll(".primary-content p")
+console.log(primaryElements)
+
 
 /*
 Task 2

@@ -21,5 +21,5 @@
         "streetsidesoftware.code-spell-checker"
 
     ],
-  "postCreateCommand": "mkdir -p $HOME/.config/vscode-dev-containers/ && touch $HOME/.config/vscode-dev-containers/first-run-notice-already-displayed"
+  "postCreateCommand": "mkdir -p $HOME/.config/vscode-dev-containers/ && touch $HOME/.config/vscode-dev-containers/first-run-notice-already-displayed; npm i"
 }
